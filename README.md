@@ -5,7 +5,7 @@
 - ☘️ I'm currently learning [HaxeFlixel][haxeflLink] and [Heaps][heapslink].
 - 🌕 I'm looking to collaborate on mobile porting.
 - 🌑 I'm looking for help with [Python][PythonLink].
-- ❔ Ask me about  `nothing.`
+- ❔ Ask me about `nothing.`
 - 🚹 Pronouns are He/Him.
 - ⭐ Fun Fact about me: plants.
 
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="zacksgamerz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][ytlink]
-[<img align="left" alt="zacksgamerz | GameJolt" width="22px" src"https://cdn.discordapp.com/attachments/914540791366549544/914540820303056896/Daco_5773133.png" />][GJlink]
+[<img align="left" alt="zacksgamerz | GameJolt" width="22px" src="https://github.com/zacksgamerz/zacksgamerz/raw/main/art/Daco_5773133.svg" />][GJlink]
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
@@ -27,10 +27,15 @@
 <br />
 <br />
 
+[heapslink]: https://heaps.io/
+[haxeflLink]: https://github.com/HaxeFlixel/flixel
+[MVAgj]: https://gamejolt.com/games/madvirusattack/643489
+[website]: https://dev.to/zacksgamerz
+[GJlink]: https://gamejolt.com/@zacksgamerz
 [PBSlink]: https://gamejolt.com/@PowerRoomStudio
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[ytlink]: https://youtube.com/channel/UCbWNOpUvvruwi3pbYVC_yWQ
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
