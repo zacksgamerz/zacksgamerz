@@ -25,6 +25,16 @@
 - Nothing yet!
 
 <br />
+
+### Latest YT Vids:
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+▶️ [More videos on my channel.][ytlink]
+
+<br />
 <br />
 
 [PythonLink]: https://github.com/python
