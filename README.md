@@ -29,11 +29,11 @@
 ### Latest YT Vids:
 
 <!-- YOUTUBE:START -->
+- [Input pain](https://www.youtube.com/watch?v=Awc7lOTk86s)
 - [FNF: MVA test loloololollololololl](https://www.youtube.com/watch?v=IkfgexwfikU)
 - [Random bullsh*t #1](https://www.youtube.com/watch?v=wt9aOobsq_U)
 - [my friend dared me to post this](https://www.youtube.com/watch?v=BZG2jqCwyqY)
 - [[Deltarune] Faint Courage &lpar;GAME OVER Theme&rpar; - orchestra remix ig](https://www.youtube.com/watch?v=70xG0F2Yr5c)
-- [FNFNET Official Android Port &lpar;Multi-player + Mod support&rpar;](https://www.youtube.com/watch?v=EM_U3YH1WIs)
 <!-- YOUTUBE:END -->
 
 ▶️ [More videos on my channel.][ytlink]
