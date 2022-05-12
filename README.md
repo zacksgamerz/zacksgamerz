@@ -29,11 +29,11 @@
 ### Latest YT Vids:
 
 <!-- YOUTUBE:START -->
+- [PC FNF Psych Engine Tutorial - How to add aseprite sprite sheets without converting them into an xml](https://www.youtube.com/watch?v=EVfaRs5Y4lc)
 - [Umbra thing i&#39;ve made, using shaders.](https://www.youtube.com/watch?v=SlIKF8BlqRw)
 - [FNF SPEED.GIF Android Port](https://www.youtube.com/watch?v=rJZQUrv19aE)
 - [FNF MVA: ROUGH DEMO IS NOW OUT](https://www.youtube.com/watch?v=x6GMpvf1yxY)
 - [FNF MVA - Rough Demo gameplay](https://www.youtube.com/watch?v=cnwLWW_H3pM)
-- [FNF: Psych Engine Android Port &lpar;FULL&rpar;](https://www.youtube.com/watch?v=0WkK-sdPZlE)
 <!-- YOUTUBE:END -->
 
 ▶️ [More videos on my channel.][ytlink]
