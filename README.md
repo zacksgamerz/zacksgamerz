@@ -29,11 +29,11 @@
 ### Latest YT Vids:
 
 <!-- YOUTUBE:START -->
-- [Mad Virus Attack V2 - Release Trailer](https://www.youtube.com/watch?v=d43m-MMBC8E)
-- [FNF MVA V2: Camera mode teaser.](https://www.youtube.com/watch?v=NWvsfJXpGm8)
-- [FNF MVA V2: Quickdraw Preview](https://www.youtube.com/watch?v=9tZVAZX_X1I)
-- [PC FNF Psych Engine Tutorial - How to add aseprite sprite sheets without converting them into an xml](https://www.youtube.com/watch?v=EVfaRs5Y4lc)
-- [Umbra thing i&#39;ve made, using shaders.](https://www.youtube.com/watch?v=SlIKF8BlqRw)
+- [FNF Mad Virus Attack V2 - YIPBEAT](https://www.youtube.com/watch?v=y_wUCbOaCvY)
+- [FNF Mad Virus Attack V2 - D0T-M4TR1X](https://www.youtube.com/watch?v=fwAsP7h_VNE)
+- [FNF Mad Virus Attack V2 - QU1CKDR4W](https://www.youtube.com/watch?v=CU8elm4xDwI)
+- [FNF Mad Virus Attack V2 - INT0XIC8](https://www.youtube.com/watch?v=Tebq6b0gk30)
+- [FNF Mad Virus Attack V2 - D1SC0](https://www.youtube.com/watch?v=cut9nk6_5BA)
 <!-- YOUTUBE:END -->
 
 ▶️ [More videos on my channel.][ytlink]
