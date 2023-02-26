@@ -29,11 +29,11 @@
 ### Latest YT Vids:
 
 <!-- YOUTUBE:START -->
+- [FNF Mad Virus Attack V2 - The Patient Tape](https://www.youtube.com/watch?v=bOr5-z0PewA)
 - [FNF Mad Virus Attack V2 - YIPBEAT](https://www.youtube.com/watch?v=y_wUCbOaCvY)
 - [FNF Mad Virus Attack V2 - D0T-M4TR1X](https://www.youtube.com/watch?v=fwAsP7h_VNE)
 - [FNF Mad Virus Attack V2 - QU1CKDR4W](https://www.youtube.com/watch?v=CU8elm4xDwI)
 - [FNF Mad Virus Attack V2 - INT0XIC8](https://www.youtube.com/watch?v=Tebq6b0gk30)
-- [FNF Mad Virus Attack V2 - D1SC0](https://www.youtube.com/watch?v=cut9nk6_5BA)
 <!-- YOUTUBE:END -->
 
 ▶️ [More videos on my channel.][ytlink]
