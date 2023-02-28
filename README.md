@@ -1,6 +1,6 @@
 ### Heya, Zack is the name. Mediocre [indie dev][PBSlink] 👋
 
-## I'm a 15yo indie developer. Nothing much.
+## I'm a 16yo indie developer. Nothing much.
 - 📑 I'm currently working on [FNF: MVA][MVAgj], a DeltaRune fangame and mobile ports of games.
 - ☘️ I'm currently learning [HaxeFlixel][haxeflLink] and [Heaps][heapslink].
 - 🌕 I'm looking to collaborate on mobile porting.
