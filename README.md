@@ -29,11 +29,11 @@
 ### Latest YT Vids:
 
 <!-- YOUTUBE:START -->
+- [Friday Night Funkin&#39; Android Preview [TESTING PHASE] [Read desc.]](https://www.youtube.com/watch?v=uofcUqkIJss)
 - [The feel is real](https://www.youtube.com/watch?v=hVeke4Bu8o8)
 - [FNF - Optimization for starters [CAPTIONS: ON]](https://www.youtube.com/watch?v=lnjMwsFEPrI)
 - [FNF Mad Virus Attack V2 - The Patient Tape](https://www.youtube.com/watch?v=bOr5-z0PewA)
 - [FNF Mad Virus Attack V2 - YIPBEAT](https://www.youtube.com/watch?v=y_wUCbOaCvY)
-- [FNF Mad Virus Attack V2 - D0T-M4TR1X](https://www.youtube.com/watch?v=fwAsP7h_VNE)
 <!-- YOUTUBE:END -->
 
 ▶️ [More videos on my channel.][ytlink]
